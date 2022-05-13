@@ -1,9 +1,10 @@
 .contacts {
-    scroll-snap-type: y mandatory;
+    scroll-snap-type: mandatory;
     scroll-padding: 18px;
     overflow-y: scroll;
     height: 300px;
     position: relative;
+    will-change: transform;
 }
 
 .contact {
