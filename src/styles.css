@@ -4,6 +4,7 @@
     overflow-y: scroll;
     height: 300px;
     position: relative;
+    /*will-change: transform;*/
 }
 
 .contact {
@@ -17,4 +18,5 @@
     color: #fff;
     margin: 0;
     padding: 0;
+    /*will-change: transform;*/
 }
